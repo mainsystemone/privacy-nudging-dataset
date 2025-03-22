@@ -1,4 +1,3 @@
-
 # Dataset Description: Privacy Personalization and User Behavior on Gegli Social Network
 
 ## Overview
